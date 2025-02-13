@@ -7,6 +7,7 @@ public class SimpleExample {
 //        }
 //        System.out.println(args[0]);
 
-         System.out.println("HELLO");
+//         System.out.println("HELLO");
+           System.out.println(args[0]);
     }
 }
