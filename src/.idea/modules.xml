@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/Revision.iml" filepath="$PROJECT_DIR$/Revision.iml" />
-=======
       <module fileurl="file://$PROJECT_DIR$/Revising.iml" filepath="$PROJECT_DIR$/Revising.iml" />
->>>>>>> 7530749d9262ca38c8b84f1a08fc2fe474f3b0ca
     </modules>
   </component>
 </project>
