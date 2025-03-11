@@ -16,6 +16,7 @@
 =======
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src" vcs="Git" />
   </component>
 >>>>>>> 5e583eb (RevI)
 </project>
