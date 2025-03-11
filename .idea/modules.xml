@@ -3,10 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Revision.iml" filepath="$PROJECT_DIR$/Revision.iml" />
 =======
       <module fileurl="file://$PROJECT_DIR$/Revising.iml" filepath="$PROJECT_DIR$/Revising.iml" />
 >>>>>>> 7530749d9262ca38c8b84f1a08fc2fe474f3b0ca
+=======
+      <module fileurl="file://$PROJECT_DIR$/JavaL.iml" filepath="$PROJECT_DIR$/JavaL.iml" />
+>>>>>>> 3d6f086 (Rev)
     </modules>
   </component>
 </project>
