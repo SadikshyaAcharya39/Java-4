@@ -1,4 +1,5 @@
 public class Main {
+<<<<<<< HEAD
 
     static int x = 30;
 
@@ -26,5 +27,9 @@ class MainMethod {
         Main main2 = new Main1();
         main2.m1();   // Can't override
 
+=======
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+>>>>>>> 03a0bd10a8283141daeb773091bc6e9be180a3fe
     }
 }
